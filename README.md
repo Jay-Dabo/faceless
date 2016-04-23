@@ -1,4 +1,4 @@
-# Faceless
+# Faceless [![Gem Version](https://badge.fury.io/rb/faceless.svg)](https://badge.fury.io/rb/faceless)
 
 A cool implementation of encryption/decryption in Ruby, borrowed from [UCenter Authcode(comsenz)](http://www.comsenz.com/downloads/install/ucenter).
 
